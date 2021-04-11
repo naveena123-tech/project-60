@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+
+h1 {
+    color: red;
+}
+
+span {
+    color: purple;
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu {
+    position: fixed;
+    background: white;
+    height: 35%;
+    text-align: left
+}
